@@ -15,4 +15,8 @@ header{
     color: cyan;
 }.titulos{
     color: #fff;
+}body{
+    background: url(Messi_InPixio.png) no-repeat;
+    background-size: cover;
+    height: 100vh;
 }
