@@ -19,4 +19,33 @@ header{
     background: url(Messi_InPixio.png) no-repeat;
     background-size: cover;
     height: 100vh;
+}.contenedor-input{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
+    margin-top: 30px;
+    margin-right: 3%;
+}.mb-3{
+    width: 350px !important;
+    margin-right: 20px !important;
+}#exampleFormControlTextarea1{
+    height: 250px;
+}label{
+    color: #fff;
+}.enviar{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    margin-right: 10%;
+}button{
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 10px;
+    background-color: black;
+    color: #fff;
+}button:hover{
+    background-color: #fff;
+    color: #000;
+    transition: 0.5s;
 }
