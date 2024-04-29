@@ -6,3 +6,9 @@ background-color: black;
 }.dropdown-item{
     color:  black !important;
 }
+.container{
+   justify-content: center;
+   margin-left: 5%;
+}.card{
+    margin: 10px;
+}
