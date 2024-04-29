@@ -5,13 +5,32 @@ a{
 background-color: black;
 }.dropdown-item{
     color:  black !important;
-}img{
-    height: 600px!important;
-    width: 50px !important;
-}.container{
+}.carousel-item{
+    position: relative;
+    left: 25%;
+    height: 60% ;
+    width: 50%;
+}.section{
+    display: flex;
+    
+    justify-content: center;
+    height: 100% !important;
+    width: 100% !important;
+}.carousel-inner{
     align-items: center;
-    width: 50% !important;
-    height: 10% !important;   
-}section{
-    background-color: aqua;
+}.seccion-card{
+    display: flex;
+    justify-content:space-between !important;
+    margin-left: 10% !important;
+
+}.card{
+    margin: 15px;
+}.seccion-2{
+    margin-left: 10% !important;
+    display: flex;
+    align-items: center !important;
+}.container{
+    display: flex;
+    justify-content: center;
+    margin: 5%;
 }
