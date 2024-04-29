@@ -6,9 +6,7 @@ background-color: black;
 }.dropdown-item{
     color:  black !important;
 }
-.img{
-
-}.container{
+.container{
     display: flex;
     justify-content: center;
     margin-left: 5%;
