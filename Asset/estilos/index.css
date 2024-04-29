@@ -5,4 +5,13 @@ a{
 background-color: black;
 }.dropdown-item{
     color:  black !important;
+}img{
+    height: 600px!important;
+    width: 50px !important;
+}.container{
+    align-items: center;
+    width: 50% !important;
+    height: 10% !important;   
+}section{
+    background-color: aqua;
 }
