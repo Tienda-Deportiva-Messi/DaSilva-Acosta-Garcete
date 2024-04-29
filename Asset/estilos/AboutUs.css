@@ -1,0 +1,18 @@
+a{
+    color: #fff !important;
+}header{
+
+background-color: black;
+}.dropdown-item{
+    color:  black !important;
+}
+
+body{
+    background-color: aliceblue;
+}
+main{
+    background-color: aliceblue;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
