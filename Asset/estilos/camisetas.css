@@ -1,0 +1,17 @@
+a{
+    color: #fff !important;
+}header{
+
+background-color: black;
+}.dropdown-item{
+    color:  black !important;
+}
+.img{
+
+}.container{
+    display: flex;
+    justify-content: center;
+    margin-left: 5%;
+}.card{
+    margin: 10px;
+}
