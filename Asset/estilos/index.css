@@ -33,4 +33,6 @@ background-color: black;
     display: flex;
     justify-content: center;
     margin: 5%;
+}.dropdown-item{
+    color: #fff !important;
 }
